@@ -45,8 +45,13 @@
 #print(x*48/70)
 
 #grams into kilograms
-x=int(input('enter gms: '))
-print(x/1000)
+#x=int(input('enter gms: '))
+#print(x/1000)
+
+#calculate area and perimeter of sqare
+x=int(input("enter length of sqare: "))
+print(x)
+
 
 
 
